@@ -1,3 +1,3 @@
 fn main () {
-    println!("Nneoma is a fine girl");
+    println!("welcome to CSC 101!");
    }
